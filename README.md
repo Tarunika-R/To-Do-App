@@ -77,8 +77,3 @@ The app should now be running on ```http://localhost:5173```
 ## Video Demonstration
 
 [To-Do App Working](https://github.com/Tarunika-R/To-Do_App/releases/download/v1.0.0/to-do.app.mp4)
-
-<video width="600" controls>
-  <source src="https://github.com/Tarunika-R/To-Do_App/releases/download/v1.0.0/to-do.app.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
