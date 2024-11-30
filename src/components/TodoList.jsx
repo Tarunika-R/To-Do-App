@@ -5,7 +5,7 @@ function TodoList({ tasks, onEditTask, onDeleteTask, onToggleCompletion, filter,
   return (
     <div className="bg-gray-100 dark:bg-gray-700 p-4 rounded-lg shadow-sm">
       <div className="flex justify-between items-center mb-4">
-        <h2 className="text-xl font-bold">Your Tasks</h2>
+        <h2 className="text-xl font-bold text-black">Your Tasks</h2>
         <select
           value={filter}
           onChange={onFilterChange}

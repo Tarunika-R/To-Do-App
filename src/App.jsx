@@ -57,7 +57,7 @@ function App() {
         darkMode
           ? "bg-gradient-to-br from-gray-900 via-teal-800 to-violet-900 text-white"
           : "bg-gradient-to-br from-pink-200 via-purple-100 to-blue-200 text-gray-800"
-      } flex flex-col items-center p-6`}
+      } flex flex-col items-center px-10 py-12 lg:px-20 lg:py-20`}
     >
       {/* Glow Effect */}
       <div
