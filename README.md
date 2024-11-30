@@ -18,8 +18,8 @@ Follow these steps to set up the application on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Tarunika-R/To-Do_App.git
+cd To-Do_App
 ```
 
 ### 2. Install Dependencies
