@@ -74,4 +74,4 @@ The app should now be running on ```http://localhost:5173```
 ![alt text](https://i.imgur.com/6bPMzgN.png)
 ![alt text](https://i.imgur.com/guGfOkO.png)
 
-<video controls src="20241130-0655-45.2343139.mp4" title="Title"></video>
+![alt text](https://github.com/Tarunika-R/To-Do_App/releases/download/v1.0.0/to-do.app.mp4)
